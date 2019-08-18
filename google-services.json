@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061972795911",
+    "firebase_url": "https://smsmanager-c1b14.firebaseio.com",
+    "project_id": "smsmanager-c1b14",
+    "storage_bucket": "smsmanager-c1b14.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061972795911:android:700532ac2d93a476",
+        "android_client_info": {
+          "package_name": "ru.geekbrains.sms_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061972795911-52i7q78ure814j5fl14tl268mtava39d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.geekbrains.sms_manager",
+            "certificate_hash": "bdb98b5c6d28bf636dcfd018e2f5d2cbc4d5f2e2"
+          }
+        },
+        {
+          "client_id": "1061972795911-qm8jvm3802j56qoenigok5l87eh3uicr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2uUHNLgK9V6ZSaJd9t0DmMqwmFPce4Lc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061972795911-qm8jvm3802j56qoenigok5l87eh3uicr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
