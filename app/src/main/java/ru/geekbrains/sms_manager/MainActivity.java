@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
             String from = (String) getIntent().getSerializableExtra("addressFrom");
             String message = (String) getIntent().getSerializableExtra("message");
             if (from.length() > 1 && message.length() > 1){
-                addElement(from, message, "Входящие");
+                addElement(from, message, INPUT_MESSAGE);
                 getIntent().removeExtra("addressFrom");
                 getIntent().removeExtra("message");
             }
