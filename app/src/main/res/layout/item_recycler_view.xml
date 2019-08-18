@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="?android:attr/dropDownItemStyle"
+    android:textAppearance="?android:attr/textAppearanceLargePopupMenu"
+    android:singleLine="true"
+    android:layout_width="match_parent"
+    android:layout_height="?android:attr/listPreferredItemHeight"
+    android:ellipsize="marquee"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/text_from"
+        android:layout_width="110dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:text="@string/text_from"/>
+
+    <TextView
+        android:id="@+id/text_message"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:text="@string/text_message"/>
+
+    <TextView
+        android:id="@+id/type_SMS"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="@string/type_SMS"
+        android:textSize="16sp"
+        android:textColor="@color/colorAccent"/>
+
+    </LinearLayout>

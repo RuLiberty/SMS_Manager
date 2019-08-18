@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SMS_Manager</string>
+    <string name="action_delete_all">Удалить все СМС</string>
+    <string name="enter_phonenumber">Введите номер адресата</string>
+    <string name="enter_the_text">Введите текст SMS</string>
+    <string name="btn_send">Отправить</string>
+    <string name="text_from">Сообщение от:</string>
+    <string name="text_message">Текст сообщения:</string>
+    <string name="type_SMS">Исходящее</string>
+</resources>
